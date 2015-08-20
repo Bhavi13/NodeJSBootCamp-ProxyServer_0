@@ -22,11 +22,11 @@ Response from Server:
 <br>* Rebuilt URL to: http://127.0.0.1:8001/
 <br>* Hostname was NOT found in DNS cache
 <br>*   Trying 127.0.0.1...
-* Connected to 127.0.0.1 (127.0.0.1) port 8001 (#0)
-> POST / HTTP/1.1
-> User-Agent: curl/7.37.1
-> Host: 127.0.0.1:8001
-> Accept: */*
+<br>Connected to 127.0.0.1 (127.0.0.1) port 8001 (#0)
+<br>> POST / HTTP/1.1
+<br>> User-Agent: curl/7.37.1
+<br>> Host: 127.0.0.1:8001
+<br>> Accept: */*
 > x-asdf: foo
 > Content-Length: 4
 > Content-Type: application/x-www-form-urlencoded
