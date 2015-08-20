@@ -18,10 +18,10 @@ Request Sent to Proxy Server:
 curl -v http://127.0.0.1:8001 -H 'x-asdf: foo' -d 'asdf'
 
 Response from Server:
-<p><\n>l-snvx2cmg8w-m:proxy-server bjoshi$ curl -v http://127.0.0.1:8001 -H 'x-asdf: foo' -d 'asdf'
-<p><\n>* Rebuilt URL to: http://127.0.0.1:8001/
-<p><\n>* Hostname was NOT found in DNS cache
-<p><\n>*   Trying 127.0.0.1...
+<br>l-snvx2cmg8w-m:proxy-server bjoshi$ curl -v http://127.0.0.1:8001 -H 'x-asdf: foo' -d 'asdf'
+<br>* Rebuilt URL to: http://127.0.0.1:8001/
+<br>* Hostname was NOT found in DNS cache
+<br>*   Trying 127.0.0.1...
 * Connected to 127.0.0.1 (127.0.0.1) port 8001 (#0)
 > POST / HTTP/1.1
 > User-Agent: curl/7.37.1
