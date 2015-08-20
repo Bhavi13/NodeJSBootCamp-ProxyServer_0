@@ -27,22 +27,22 @@ Response from Server:
 <br>> User-Agent: curl/7.37.1
 <br>> Host: 127.0.0.1:8001
 <br>> Accept: */*
-> x-asdf: foo
-> Content-Length: 4
-> Content-Type: application/x-www-form-urlencoded
-> 
-* upload completely sent off: 4 out of 4 bytes
-< HTTP/1.1 200 OK
-< user-agent: curl/7.37.1
-< host: 127.0.0.1:8001
-< accept: */*
-< x-asdf: foo
-< content-length: 4
-< content-type: application/x-www-form-urlencoded
-< connection: close
-< date: Thu, 20 Aug 2015 18:01:05 GMT
-< 
-* Closing connection 0
+<br>> x-asdf: foo
+<br>> Content-Length: 4
+<br>> Content-Type: application/x-www-form-urlencoded
+<br>> 
+<br>* upload completely sent off: 4 out of 4 bytes
+<br>< HTTP/1.1 200 OK
+<br>< user-agent: curl/7.37.1
+<br>< host: 127.0.0.1:8001
+<br>< accept: */*
+<br>< x-asdf: foo
+<br>< content-length: 4
+<br>< content-type: application/x-www-form-urlencoded
+<br>< connection: close
+<br>< date: Thu, 20 Aug 2015 18:01:05 GMT
+<br>< 
+<br>* Closing connection 0
 
 Walkthrough.gif
 
